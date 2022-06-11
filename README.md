@@ -11,8 +11,8 @@ Search, select items and send them to another page! All that was build without a
 # Preview
 
 <p float="left"> 
- <img src="https://raw.githubusercontent.com/victorgarcia10/garagem_rara/master/github_images/print_1.png" width="315" height="550"/>
- <img src="https://raw.githubusercontent.com/victorgarcia10/garagem_rara/master/github_images/print_2.png" width="315" height="550"/>
- <img src="https://raw.githubusercontent.com/victorgarcia10/garagem_rara/master/github_images/print_3.png" width="315" height="550"/>
+ <img src="https://github.com/joaovictorgarcia10/item_selector/blob/master/assets/img1.png" width="315" height="550"/>
+ <img src="https://github.com/joaovictorgarcia10/item_selector/blob/master/assets/img2.png" width="315" height="550"/>
+ <img src="https://github.com/joaovictorgarcia10/item_selector/blob/master/assets/img3.png" width="315" height="550"/>
 </p>
 
