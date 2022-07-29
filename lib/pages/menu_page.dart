@@ -12,7 +12,7 @@ class _MenuPageState extends State<MenuPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Menu Page'),
+        title: const Text('Search Options'),
       ),
       body: Center(
         child: Column(
