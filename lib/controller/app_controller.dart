@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:topic_selector/model/contact_model.dart';
 
-class HomeController extends ChangeNotifier {
+class AppController extends ChangeNotifier {
   List<ContactModel> contactsList = [
     ContactModel(name: "Bill Gates"),
     ContactModel(name: "Mark Zuckberg"),
@@ -15,9 +15,7 @@ class HomeController extends ChangeNotifier {
   ];
 
   List<ContactModel> searchList = [];
-
   List<ContactModel> selectedList = [];
-
   bool startSearch = false;
 
   setStartSearch({required bool value}) {
